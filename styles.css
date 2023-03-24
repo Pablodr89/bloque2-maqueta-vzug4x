@@ -1,0 +1,19 @@
+th,
+td,
+table {
+  border: 1px solid black;
+}
+
+main {
+  width: 80%;
+  margin: 1rem auto;
+}
+
+.listas {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tab {
+  text-indent: 3rem;
+}
